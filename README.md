@@ -1,5 +1,3 @@
-**Hi, I'm Eva**
-
 **Me & Tech**
 - I transitioned into programming from another field. It’s one of the best decisions I've ever made.
 - Frontend-focused full-stack developer with a passion for **React**, it's still one of my favorites.
