@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Eva
 
-<!--
-**evatitan/evatitan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Me & Tech
+- I transitioned into programming from another field. It’s one of the best decisions I've ever made.
+- Frontend-focused full-stack developer with a passion for **React**, it's still one of my favorites.
+- I bring experience across both frontend and backend development. **JavaScript** is the one I use most.
+- Strong believer in Test-Driven Development because quality matters from day one.
+- Always striving for clean, maintainable code that's good for me and good for peers.
 
-Here are some ideas to get you started:
+## Me & Education
+- Education is one of my passions. I believe in the power of learning and sharing knowledge. 
+- Spanish is my second foreign language. Do I love it? Bueno, demasiado. 
+- I create Spanish learning tools to support fellow learners grappling with the challenges of mastering this beautiful language.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Spanish Learning Resources
+- **[Chinol Academy](https://chinoles.com)** – My personal language academy
+- **[Sayings]()** – Curated collection of meaningful Spanish expressions
+<!-- - **[Grammar]()** – Interactive exercises for mastering Spanish grammar rules
+- **[Vocabulary]()** – Smart flashcards and word learning applications -->
+
+## 🌱 Me & Current Learning
+- Currently expanding into **Python**, focusing on data visualization and analytics to broaden my technical toolkit.
+
