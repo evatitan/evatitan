@@ -10,7 +10,7 @@
 - Spanish is my second foreign language. Do I love it? Bueno, demasiado. 
 - I create Spanish learning tools to support fellow learners grappling with the challenges of mastering this beautiful language.
 - **[Chinol Academy](https://chinoles.com)** – My personal language academy
-- **[Sayings]()** – Curated collection of meaningful Spanish expressions
+- **[Sayings](https://lang-sp-sayings.vercel.app)** – Curated collection of meaningful Spanish expressions
 
 **Me & Current Learning**
 - Currently expanding into **Python**, focusing on data visualization and analytics to broaden my technical toolkit.
